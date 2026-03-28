@@ -1,1 +1,0 @@
-Select * From Products Where ProductName like '%j%'
